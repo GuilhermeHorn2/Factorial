@@ -1,2 +1,2 @@
 # Factorial
-A fucntion that get a number and return his factorial (n!),with javascript
+A function that get a number and return his factorial (n!),with javascript
